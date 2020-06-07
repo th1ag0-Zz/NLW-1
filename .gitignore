@@ -1,2 +1,4 @@
 # pasta que eu não quero subir
+/node_modules
+node_modules
 node_modules/
