@@ -1,9 +1,9 @@
-# #NextLevelWeek - Ecoleta🚀
+<h1 align="center">#NextLevelWeek - Ecoleta🚀</h1>
 
-![Demo-1](.github/demo-1.gif)
-![Demo-2](.github/demo-2.gif)
-
-##### 👾 Projeto feito através da primeira edição da #NextLevelWeek
+<p align="center">
+  <img src=".github/demo-1.gif">
+  <img src=".github/demo-2.gif">
+</p>
 
 ### Sobre o projeto:
 Realizada durante a semana do meio ambiente, esta plataforma tem como objetivo ajudar pessoas a encontrarem pontos de coletas mais próximos onde a mesma poderá fazer o descarte adequado dependendo do tipo de resíduo!
