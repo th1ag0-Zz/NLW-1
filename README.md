@@ -15,4 +15,5 @@ Realizada durante a semana do meio ambiente, esta plataforma tem como objetivo a
 * [Nunjucks](https://mozilla.github.io/nunjucks/)
 
 #### Obs:
-Na raiz do projeto, execute o "npm" para instalar as dependências...
+
+Na raiz do projeto, execute `npm install` para instalar as dependências...
